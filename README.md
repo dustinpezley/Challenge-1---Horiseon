@@ -1,5 +1,5 @@
 # Challenge-1---Horiseon
-Code Refractor Updated Code
+Updated Code
 
 Updated accessibility within code: <br />
   Semantic HTML elements <br />
